@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Erfan
 
-- 🌱 I’m currently learning ReactJs
-- 💬 Ask me about Javascript & ReactJs
 - 📫 How to reach me: [LinkedIn](linkedin.com/in/erfan-amanabadi-7176611a7)
 
 #### HAPPY CODING 🤞
